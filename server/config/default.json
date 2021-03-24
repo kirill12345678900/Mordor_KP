@@ -1,0 +1,5 @@
+{
+  "serverPort" : 5000,
+  "dbUrl" : "mongodb+srv://KkxOfficial:1234567890@cluster0.c2joj.mongodb.net/MordorPro?retryWrites=true&w=majority",
+  "secretKey" : "mern-secket-key"
+}
